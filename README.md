@@ -1,6 +1,3 @@
-# NLP Notebook
-
-This repository contains a notebook (NLP_notebook.ipynb) with complete code, explanations, and results for a Natural Language Processing (NLP) project.
 
 ## Contents
 - NLP_notebook.ipynb: Jupyter Notebook containing complete code and explanations.
