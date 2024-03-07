@@ -1,0 +1,8 @@
+{
+    "base_path": "./",
+    "path_directory": "./",
+    "data_path": "/content/drive/MyDrive/train.csv",
+    "test_data" :"/content/test.csv",
+    "model_name":"distilbert-base-uncased",
+    "model_path" : "AG_model"
+}
